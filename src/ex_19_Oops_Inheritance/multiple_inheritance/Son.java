@@ -1,4 +1,4 @@
-package ex_19_Oops_Inheritance.multilevel_inheritance.multiple_inheritance;
+package ex_19_Oops_Inheritance.multiple_inheritance;
 
 public class Son //extends Mother_MP, Father_MP{
 {

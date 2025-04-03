@@ -1,4 +1,4 @@
-package ex_19_Oops_Inheritance.multilevel_inheritance.single_inheritance;
+package ex_19_Oops_Inheritance.single_inheritance;
 
 public class CommonToAll {
 
